@@ -20,7 +20,7 @@ body{
   font-size: 3em;
   border-radius:50px
 }
-.wrapper p:nth-child(1){
+.wrapper oA:nth-child(1){
   background-color: silver;
 }
 .wrapper p:nth-child(2){
